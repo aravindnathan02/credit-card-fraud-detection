@@ -62,16 +62,16 @@ These metrics ensure minimal false positives and negatives, crucial in fraud det
 ## Project Workflow
 
 1. **Exploratory Data Analysis (EDA):**
-> Understand the dataset distribution and detect patterns in fraudulent transactions.
+Understand the dataset distribution and detect patterns in fraudulent transactions.
 
 2. **Data Preprocessing:**
-> Handle missing values, class imbalance, and scale features.
+Handle missing values, class imbalance, and scale features.
 
 3. **Model Training:**
-> Train baseline model with Logistic Regression and Random Forest model with hyperparameter tuning.
+Train baseline model with Logistic Regression and Random Forest model with hyperparameter tuning.
 
 4. **Model Evaluation:**
-> Evaluate using precision, recall, and AUPRC score.
+Evaluate using precision, recall, and AUPRC score.
 
 5. **Optimization:**
-> Fine-tune parameters and optimize for deployment readiness.
+Fine-tune parameters and optimize for deployment readiness.
